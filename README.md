@@ -5,8 +5,7 @@
 
 ## ✔️ Bypass Service Available
 
-### Join us on Telegram:
-[Bypassing Google Play Protect](https://t.me/BypassingGooglePlayProtect)
+
 
 ---
 
