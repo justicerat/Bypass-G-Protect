@@ -21,4 +21,4 @@
 ---
 
 ### Watch the Video:
-[![Bypassing Google Play Protect](https://img.youtube.com/vi/rpKrGHqUCwM/0.jpg)](https://youtu.be/XArJ7dCRTL0?si=Od2u_zHK9GHyvzKO)
+[![Bypassing Google Play Protect](https://raw.githubusercontent.com/justicerat/Bypass-G-Protect/refs/heads/main/photo_2024-09-24_01-17-23.jpg)](https://youtu.be/XArJ7dCRTL0?si=Od2u_zHK9GHyvzKO)
